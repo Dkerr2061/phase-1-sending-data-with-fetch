@@ -1,30 +1,195 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
+    },
+    {
+      "id": "ddec",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "f681",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "eeb4",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "6715",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "bd6a",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "554c",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "87ed",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "fa25",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "4c94",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "920b",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "7df5",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "6eba",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "9bea",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "8dee",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "f094",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "feb9",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "b306",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "1a26",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "ac20",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "91d8",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "80ae",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "0576",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "a05a",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "1793",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "bfe4",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "2de5",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "0db6",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "108f",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "1591",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "bdf5",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "c304",
+      "name": "David",
+      "email": "random@gmail.com"
+    },
+    {
+      "id": "61c5",
+      "name": "David",
+      "email": "random@gmail.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
